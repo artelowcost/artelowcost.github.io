@@ -68,6 +68,9 @@ h1 span {
   h1, figure {
     margin-left: -2rem;
   }
+  figure {
+    margin: inherit;
+  }
   h1 {
     font-size: 3rem;
   }
