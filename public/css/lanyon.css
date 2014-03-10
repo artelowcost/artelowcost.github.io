@@ -50,12 +50,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
-h1, figure {
+h1 {
   margin-left: -1rem;
 }
 figure{
   background-color: rgba(250,230,20,.25);
   padding: 1em;
+  margin: .25rem;
 }
 figure img {
   display: inline;
