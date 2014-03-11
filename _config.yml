@@ -9,7 +9,7 @@ permalink:        pretty
 title:            artelowcost/artinpocket
 tagline:          Un blog d'artinpocket
 description:      artelowcost bloc d'<a href="http://www.artinpocket.cat" target="_blank">artinpocket</a>. Creat per <a href="http://www.oxygen.cat/" target="_blank">Oxygen.cat</a>.
-url:              http://artelowcost.com
+url:              'http://www.artelowcost.com'
 
 author:
   name:           'Ramon Gil'
