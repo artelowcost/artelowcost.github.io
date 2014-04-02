@@ -11,7 +11,7 @@ share: true
 	</figcaption>
 </figure>
 
-**El arte no es caro** y comprar arte tampoco,  **comprar arte barato es posible en Artinpocket** ya que ofrece una comunicad de compra y venda de arte accesible con un clic. Que las obras de arte sólo las pueden adquirir personas con un nivel adquisitivo alto, es un tópico: ¿Por donde empezar? ¿cómo lo puedo hacer? ¿qué comprar?  
+**El arte no es caro** y comprar arte tampoco,  **comprar arte barato es posible en [Artinpocket](http://www.artinpocket.cat/)** ya que ofrece una comunidad de compra y venda de arte accesible con un clic. Que las obras de arte sólo las pueden adquirir personas con un nivel adquisitivo alto, es un tópico: ¿Por donde empezar? ¿cómo lo puedo hacer? ¿qué comprar?  
 
 **En Artinpocket los artistas ofrecen obras accesibles a todos los bolsillos**. Son artistas cargados de talento, poder creativo, imaginación y gran capacidad para provocar emociones con sus creaciones. Sus piezas son únicas, originales e irrepetibles y... quién sabe si serán los nuevos Dalis y Picassos! 
 
