@@ -2,7 +2,6 @@
 layout: post
 title: Regalar arte la mejor opción
 share: true
-published: true
 ---
 
 <figure class="text-center">
