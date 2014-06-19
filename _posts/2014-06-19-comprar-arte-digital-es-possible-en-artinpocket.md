@@ -7,7 +7,7 @@ share: true
 <figure class="text-center">
 	<img src="http://www.inpocketart.com/wp-content/uploads/2014/05/dark-street-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.inpocketart.com/product/dark-street-ernest-cortada-2014/">Dark Street, Ernest Cortada, 2014</a></strong></p>
+		<p><small><strong><a href="http://www.inpocketart.com/product/dark-street-ernest-cortada-2014/">Dark Street. Ernest Cortada, 2014</a></strong></p>
 	</figcaption>
 </figure>
 
@@ -17,4 +17,4 @@ El arte digital o [net.art](http://es.wikipedia.org/wiki/Net.art) existe. Es un 
 
 El arte digital está a tu alcance con Artinpocket. Gracias a su tecnología y al acuerdo con el autor **Artinpocket puede crear un núm determinado de copias únicas**: la encriptación en la nube y la marca de agua no visible al ojo humano realizada mediante la modificación de un grupo de pixeles transforman esa reproducción en única e irrepetible es decir le dan valor de obra de arte **de la misma forma que lo es un grabado o una litografía**. 
 
-Artinpocket te permite coleccionar obras digitales de edición limitada y poderlas disfrutar en tus dispositivos. Comprar arte digital es **más económico, más social, más accesible** ¿a qué esperas a empezar tu colección? **[entra](http://www.inpocektart.com/)** y escoge tu primera pieza de arte digital. 
+Artinpocket te permite coleccionar obras digitales de edición limitada y poderlas disfrutar en tus dispositivos. Comprar arte digital es **más económico, más social, más accesible** ¿a qué esperas a empezar tu colección? **[entra](http://www.inpocektart.com/)** y escoge tu primera pieza de arte digital.
