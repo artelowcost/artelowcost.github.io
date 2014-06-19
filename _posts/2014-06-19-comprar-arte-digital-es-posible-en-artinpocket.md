@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comprar arte digital es possible en Artinpocket 
+title: Comprar arte digital es posible en Artinpocket 
 share: true
 ---
 
