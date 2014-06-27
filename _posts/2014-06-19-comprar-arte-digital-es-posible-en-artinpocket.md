@@ -1,20 +1,16 @@
 ---
 layout: post
-title: Comprar arte digital es posible en Artinpocket 
+title: Coleciona arte ditigal y transforma tus dispositivos en tu galeria de arte particular 
 share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.inpocketart.com/wp-content/uploads/2014/05/dark-street-watermark.jpg">
+	<img src="http://www.inpocketart.com/wp-content/uploads/2014/05/past-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.inpocketart.com/product/dark-street-ernest-cortada-2014/">Dark Street. Ernest Cortada, 2014</a></strong></p>
+		<p><small><strong><a href="http://www.inpocketart.com/product/past-marta-carrate-2014/">Past, Marta Carreté, 2014</a></strong></p>
 	</figcaption>
 </figure>
 
-**[Artinpocket](http://www.artinpocket.cat/) te permite comprar arte digital** gracias a su capacidad de poder crear ediciones limitadas de las obras creadas en entornos y con herramientas digitales. 
+**Que todo el mundo pueda comprar arte digital** es nuestro objetivo. Queremos transformar y renovar el mercado y el consumo arte y lo queremos hacer en el entorno digital. De la misma forma que lo han hecho la música o el mercado editorial **ahora es la hora del arte**. 
 
-El arte digital o [net.art](http://es.wikipedia.org/wiki/Net.art) existe. Es un arte que ha nacido dentro de la red, realizado con sus instrumentos y su lenguaje, y que no tiene sentido (además, no existe) fuera de ella. En Artinpocket entendemos que pagar por una obra digital, es idóneo y tiene sentido, ya que **compras la obra, no la imagen de ella**. Es por ello que ha desarrollado su plataforma de compra de Arte digital. 
-
-El arte digital está a tu alcance con Artinpocket. Gracias a su tecnología y al acuerdo con el autor **Artinpocket puede crear un núm determinado de copias únicas**: la encriptación en la nube y la marca de agua no visible al ojo humano realizada mediante la modificación de un grupo de pixeles transforman esa reproducción en única e irrepetible es decir le dan valor de obra de arte **de la misma forma que lo es un grabado o una litografía**. 
-
-Artinpocket te permite coleccionar obras digitales de edición limitada y poderlas disfrutar en tus dispositivos. Comprar arte digital es **más económico, más social, más accesible** ¿a qué esperas a empezar tu colección? **[entra](http://www.inpocektart.com/)** y escoge tu primera pieza de arte digital.
+¿Quién iba a decir hace 5 años que podríamos tener nuestra biblioteca en una tablet de poco más de 15 centímetros? Ahora y **gracias a [Artinpocket](http://www.artinpocket.cat/)** junto a nuestra biblioteca, videoteca y discoteca también podremos tener nuestra galería de arte, **nuestra colección de obras originales de artistas de referencia**.
