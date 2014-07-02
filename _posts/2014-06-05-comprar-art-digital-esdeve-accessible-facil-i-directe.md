@@ -7,7 +7,7 @@ share: true
 <figure class="text-center">
 	<img src="http://www.inpocketart.com/wp-content/uploads/2014/05/time-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.inpocketart.com/product/time-ernest-cortada-2014/">Time. Ernest Cortada, 2014</a></strong></p>
+		<p><small><strong><a href="http://www.inpocketart.com/product/time-ernest-cortada-2014/">Time. Ernest Cortada, 2014</a></strong></small></p>
 	</figcaption>
 </figure>
 
