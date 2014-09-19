@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/493.jpg?1398981109">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/04/beso-en-la-ciudad-lola-kabuki-2013-493.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=430&$work_code=493">BESO EN LA CIUDAD, 2013</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=430&$collection_code=82">Colección: LA CIUDAD TAMBIÉN TIENE SU ENCANTO</a>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=430">Lola Kabuki, 1979</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/beso-en-la-ciudad-lola-kabuki-2013-493/">BESO EN LA CIUDAD, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-category/lola-kabuki-la-ciudad-tambien-tiene-su-encanto/">Colección: LA CIUDAD TAMBIÉN TIENE SU ENCANTO</a>, <a href="http://www.artinpocket.cat/product-tag/lola-kabuki/">Lola Kabuki, 1979</a></small></p>
 	</figcaption>
 </figure>
 

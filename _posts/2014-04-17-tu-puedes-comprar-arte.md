@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/479.jpg?1397722748">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/04/papallones-crisantem-aurembiaix-sabate-2014-479.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=294&$work_code=479#disqus_thread">papallones-crisantem, 2014</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=294">Aurembiaix , 1980</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/papallones-crisantem-aurembiaix-sabate-2014-479/">papallones-crisantem, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/aurembiaix-sabate/">Aurembiaix , 1980</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/330.jpg?1394457637">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2013/11/mecanisme-i-en20111-miriam-grau-millaret-2011-330.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=311&$work_code=330">Mecanisme I [EN/2011/1], 2011</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=311">Míriam Grau Millaret , 1987</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/mecanisme-i-en20111-miriam-grau-millaret-2011-330/">Mecanisme I [EN/2011/1], 2011</a></strong>, <a href="http://www.artinpocket.cat/product-tag/miriam-grau-millaret/">Míriam Grau Millaret , 1987</a></small></p>
 	</figcaption>
 </figure>
 

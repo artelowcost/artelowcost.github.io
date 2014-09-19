@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/570.jpg?1400740353">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/sentimental-iii-julian-rodriguez-aldana-2010-570.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=447&$work_code=570">Sentimental III, 2010</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=447&$collection_code=98">Colección: Sentimental</a>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=447">JuliánRodríguezAldana, 1968</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product-tag/adria-ciurana/">Sentimental III, 2010</a></strong>, <a href="http://www.artinpocket.cat/product-category/julian-rodriguez-aldana-sentimental/">Colección: Sentimental</a>, <a href="http://www.artinpocket.cat/product-tag/julian-rodriguez-aldana/">Julián Rodríguez Aldana, 1968</a></small></p>
 	</figcaption>
 </figure>
 

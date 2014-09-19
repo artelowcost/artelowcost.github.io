@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/428.jpg?1394454934">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/03/ls-alona-vinc-2013-428.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=406&$work_code=428#disqus_thread">L/S, 2003</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=406">Alona Vinç</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/ls-alona-vinc-2013-428/">L/S, 2003</a></strong>, <a href="http://www.artinpocket.cat/product-tag/alona-vinc/">Alona Vinç</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/494.jpg?1398254138">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/04/amanecer-lola-kabuki-2013-494.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=430&$work_code=494#disqus_thread">AMANECER, 2013</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=430&$collection_code=82">Colección: LA CIUDAD TAMBIÉN TIENE SU ENCANTO</a>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=430">Lola Kabuki, 1979</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/amanecer-lola-kabuki-2013-494/">AMANECER, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-category/lola-kabuki-la-ciudad-tambien-tiene-su-encanto/">Colección: LA CIUDAD TAMBIÉN TIENE SU ENCANTO</a>, <a href="http://www.artinpocket.cat/product-tag/lola-kabuki/">Lola Kabuki, 1979</a></small></p>
 	</figcaption>
 </figure>
 

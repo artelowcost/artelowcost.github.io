@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/421.jpg?1394457955">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2013/10/cadira-anna-llimos-vidal-2012-251.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=398&$work_code=421#disqus_thread">Cadira, 2012</a></strong>, <a href="http://www.artinpocket.cat/gallery_home.php?$artist_code=398">PROMOCIÓ ARTINPOCKET</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/cadira-anna-llimos-vidal-2012-251/">Cadira, 2012</a></strong>, <a href="http://www.artinpocket.cat/product-tag/anna-llimos-vidal/">PROMOCIÓ ARTINPOCKET</a></small></p>
 	</figcaption>
 </figure>
 

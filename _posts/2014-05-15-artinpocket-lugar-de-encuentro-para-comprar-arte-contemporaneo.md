@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/504.jpg?1400141121">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/1889-vincent-menja-i-caga-pintura-adria-ciurana-2014-504.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=244&$work_code=504#disqus_thread">1889 Vincent menja i caga pintura, 2014</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=244&$collection_code=84">Colección 1889 Vincent menja i caga pintura</a>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=244">Adrià Ciurana, 1985</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/1889-vincent-menja-i-caga-pintura-adria-ciurana-2014-504/">1889 Vincent menja i caga pintura, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-category/adria-ciurana-1889-vincent-menja-i-caga-pintura/">Colección 1889 Vincent menja i caga pintura</a>, <a href="http://www.artinpocket.cat/product-tag/adria-ciurana/">Adrià Ciurana, 1985</a></small></p>
 	</figcaption>
 </figure>
 

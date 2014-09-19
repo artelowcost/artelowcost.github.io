@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/432.jpg?1395304247">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/03/silencio-se-rueda-me-bes-2014-432.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=409&$work_code=432#disqus_thread">SILENCIO, SE RUEDA!, 2014</a></strong>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=409">ME BES , 0</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/silencio-se-rueda-me-bes-2014-432/">SILENCIO, SE RUEDA!, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/me-bes/">ME BES , 0</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/397.jpg?1394456462">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/02/cami-de-casa-gerard-martinez-costa-2013-397.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=316&$work_code=397">Camí de casa, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=316">Gerad M. Costa, 1982</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/cami-de-casa-gerard-martinez-costa-2013-397/">Camí de casa, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/gerard-martinez-costa/">Gerad M. Costa, 1982</a></small></p>
 	</figcaption>
 </figure>
 

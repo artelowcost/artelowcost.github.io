@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/474.jpg?1397030554">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/04/newspaper-hands-mateu-targa-agusti-2013-474.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=422&$work_code=474#disqus_thread">Newspaper Hands, 2013</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=422&$collection_code=72">Colección PAPER ANATOMY</a>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=422">Mateu Targa , 1989</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/newspaper-hands-mateu-targa-agusti-2013-474/">Newspaper Hands, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-category/mateu-targa-agusti-paper-anatomy/">Colección PAPER ANATOMY</a>, <a href="http://www.artinpocket.cat/product-tag/mateu-targa-agusti/">Mateu Targa , 1989</a></small></p>
 	</figcaption>
 </figure>
 

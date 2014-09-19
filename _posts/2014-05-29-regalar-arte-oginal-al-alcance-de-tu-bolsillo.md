@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/508.jpg?1401308510">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/wild-child-1-javitxuela-2014-508.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=442&$work_code=508#disqus_thread">Wild Child #1, 2014</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=442">Javitxuela</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/wild-child-1-javitxuela-2014-508/">Wild Child #1, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/javitxuela/">Javitxuela</a></small></p>
 	</figcaption>
 </figure>
 
