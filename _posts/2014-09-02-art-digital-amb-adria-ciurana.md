@@ -9,7 +9,7 @@ share: true
 		<iframe src="//player.vimeo.com/video/101385919?title=0&amp;portrait=0" width="500" height="314" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 	</div> 
 	<figcaption> 
-		<p><small><strong><a href="http://www.inpocketart.com/product/segon-estudi-per-un-rosari-animat-ii-adria-ciurana-2011/">Segon estudi per un rosari animat II. Adrià Ciurana, 2011</a></strong></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/segon-estudi-per-un-rosari-animat-ii-adria-ciurana-2011/">Segon estudi per un rosari animat II. Adrià Ciurana, 2011</a></strong></small></p>
 	</figcaption> 
 </figure>
 
