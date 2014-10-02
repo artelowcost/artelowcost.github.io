@@ -2,13 +2,17 @@
 layout: post
 title: ¡El mundo del arte será digital!  
 share: true
+work: 2087
 ---
 
+{% assign work_data = site.data.works.lalaia | where:"id", page.work %}
+{% assign work = work_data | first %}
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/07/st-1-lalaia-2013-watermark.jpg">
-	<figcaption> 
-		<p><small><strong><a href="http://www.artinpocket.cat/product/sense-titol-1-lalaia-2014/">Sense títol 1. Lalaia, 2013</a></strong></small></p>
-	</figcaption> 
+	<img src="{{ work.featured_src }}">
+	<figcaption>
+		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
+		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
+	</figcaption>
 </figure>
 
 Todo el mundo lo sabe, pero pocos lo dicen en voz alta. **El arte y su consumo serán digitales**. Seguramente por esto el ámbito comercial y el arte de Internet se están acercando y aparecen diferentes propuestas artísticas pero también nuevas plataformas y productos para poder consumir y disfrutar del nuevo formato digital.  

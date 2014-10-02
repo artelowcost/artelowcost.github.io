@@ -2,14 +2,17 @@
 layout: post
 title: ¿Comprar arte? si no te gusta no lo compres  
 share: true
+work: 1863
 ---
 
+{% assign work_data = site.data.works.martacarrete | where:"id", page.work %}
+{% assign work = work_data | first %}
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/spring-watermark.jpg">
-	<figcaption> 
-		<p><small><strong><a href="http://www.artinpocket.cat/product/spring-marta-carrate-2014/">
-Spring. Marta Carreté, 2014</a></strong></small></p>
-	</figcaption> 
+	<img src="{{ work.featured_src }}">
+	<figcaption>
+		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
+		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
+	</figcaption>
 </figure>
 
 Una de las primeras tareas para comprar arte es marcar el presupuesto que vas a dedicar. No puedes olvidar que el mercado es muy amplio y puedes adquirir obras originales de jovenes creadores desde unos pocos cientos de euros. Si tu presupuesto no es muy alto, **la fotografía, el grabado o el arte contemporáneo realizado por artistas emergentes como los que te ofrece [Artinpocket](http://www.artinpocket.cat/) son una gran opción**. Escojas el tipo de arte que escojas y sea cual sea el presupuesto que te marques cíñete a él y no lo sobrepases bajo ningún concepto.

@@ -1,0 +1,560 @@
+- 
+  title: "Far 1. Lalaia, 2014"
+  id: 2073
+  created_at: "2014-09-12T11:54:56Z"
+  updated_at: "2014-09-12T12:53:14Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/far-1-lalaia-2014/"
+  sku: "W066"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Far 1. Lalaia, 2014. </p>\n<p>Sèrie Fars. Aquesta sèrie creada aquest any 2014, és fruit de la passió per aquests elements constructius, els fars, que desprenen una bellesa i un significat més enllà de la llum que guia els vaixells que arriben a port. Amb un visió onírica de la realitat s’uneixen elements reals i imaginaris per crear aquestes obres digitals. Paral·lelament a la creació de pintures sobre fusta amb els mateixos motius, essent finalment una sèrie tangible i virtual a la vegada.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 1891
+    - 1303
+    - 2212
+    - 2078
+    - 2247
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2077
+      created_at: "2014-07-16T11:53:50Z"
+      updated_at: "2014-07-16T11:53:50Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far1-Lalaia-2014-watermark.jpg"
+      title: "Far 1. Lalaia, 2014"
+      alt: "Far 1. Lalaia, 2014"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far1-Lalaia-2014-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "50331c164a632969a610bc5c4ee07298"
+      name: "Far 1. Lalaia, 2014"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/far1-Lalaia-2014.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Sense títol 3. Lalaia, 2014"
+  id: 2094
+  created_at: "2014-07-16T14:29:06Z"
+  updated_at: "2014-08-04T11:21:56Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/sense-titol-3-lalaia-2014/"
+  sku: "W072"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Sense títol 3. Lalaia, 2014.</p>\n<p>Dona que pensa, sent,  i sent el cos a partir de l'imaginari de Lalaia.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2250
+    - 2172
+    - 2125
+    - 1872
+    - 2033
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2096
+      created_at: "2014-07-16T14:28:51Z"
+      updated_at: "2014-07-16T14:28:51Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-3-lalaia-2013-watermark.jpg"
+      title: "Sense títol 3. Lalaia, 2014"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-3-lalaia-2013-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "09a3d5144a0051f6463d8dddd25fb1ec"
+      name: "Sense títol 3. Lalaia, 2014"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/st-3-lalaia-2013.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Sense títol 2. Lalaia, 2013"
+  id: 2091
+  created_at: "2014-07-16T14:25:24Z"
+  updated_at: "2014-08-04T11:21:57Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/sense-titol-2-lalaia-2013/"
+  sku: "W071"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Sense títol 2. Lalaia, 2013.</p>\n<p>Obra realitzada el 2013. Motius figuratius amb aires onírics treballats amb tècniques digitals a partir de dibuixos amb tinta. Evoquen els somnis, els desitjos i un món interior que vol existir en l’imaginari de l’artista i expressar sensacions i retalls de moments viscuts.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2106
+    - 1882
+    - 2186
+    - 2229
+    - 2008
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2093
+      created_at: "2014-07-16T14:25:04Z"
+      updated_at: "2014-07-16T14:25:04Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-2-lalaia-2013-watermark.jpg"
+      title: "Sense títol 2. Lalaia, 2013"
+      alt: "Sense títol 2. Lalaia, 2013"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-2-lalaia-2013-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "c8d8cd09e057a10105caef9bf6975d10"
+      name: "Sense títol 2. Lalaia, 2013"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/st-2-lalaia-2013.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Sense títol 1. Lalaia, 2013"
+  id: 2087
+  created_at: "2014-07-16T14:19:52Z"
+  updated_at: "2014-08-04T11:21:57Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/sense-titol-1-lalaia-2014/"
+  sku: "W070"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Sense títol 1. Lalaia, 2013.</p>\n<p>Obra realitzada el 2013. Motius figuratius amb aires onírics treballats amb tècniques digitals a partir de dibuixos amb tinta. Evoquen els somnis, els desitjos i un món interior que vol existir en l’imaginari de l’artista i expressar sensacions i retalls de moments viscuts.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 1834
+    - 2036
+    - 2022
+    - 1305
+    - 2253
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2089
+      created_at: "2014-07-16T14:19:37Z"
+      updated_at: "2014-07-16T14:19:37Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-1-lalaia-2013-watermark.jpg"
+      title: "Sense títol 1. Lalaia, 2013"
+      alt: "Sense títol 1. Lalaia, 2013"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/st-1-lalaia-2013-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "0c2a7549e26399cee15a897d5ffef50a"
+      name: "Sense títol 1. Lalaia, 2013"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/st-1-lalaia-2013.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Far 4. Lalaia, 2014"
+  id: 2084
+  created_at: "2014-07-16T14:15:40Z"
+  updated_at: "2014-08-04T11:21:57Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/far-4-lalaia-2014/"
+  sku: "W069"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Far 4. Lalaia, 2014.</p>\n<p>Sèrie Fars. Aquesta sèrie creada aquest any 2014, és fruit de la passió per aquests elements constructius, els fars, que desprenen una bellesa i un significat més enllà de la llum que guia els vaixells que arriben a port. Amb un visió onírica de la realitat s’uneixen elements reals i imaginaris per crear aquestes obres digitals. Paral·lelament a la creació de pintures sobre fusta amb els mateixos motius, essent finalment una sèrie tangible i virtual a la vegada.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2125
+    - 2008
+    - 1942
+    - 2091
+    - 1959
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2086
+      created_at: "2014-07-16T14:15:23Z"
+      updated_at: "2014-07-16T14:15:23Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far4-Lalaia-2014-watermark.jpg"
+      title: "Far 4. Lalaia, 2014"
+      alt: "Far 4. Lalaia, 2014"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far4-Lalaia-2014-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "bebb91ed27087a6b6029f43a7ee351ae"
+      name: "Far 4. Lalaia, 2014"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/far4-Lalaia-2014.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Far 3. Lalaia, 2014"
+  id: 2081
+  created_at: "2014-07-16T14:12:15Z"
+  updated_at: "2014-08-04T11:21:57Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/far-3-lalaia-2014/"
+  sku: "W068"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Far 3. Lalaia, 2014.</p>\n<p>Sèrie Fars. Aquesta sèrie creada aquest any 2014, és fruit de la passió per aquests elements constructius, els fars, que desprenen una bellesa i un significat més enllà de la llum que guia els vaixells que arriben a port. Amb un visió onírica de la realitat s’uneixen elements reals i imaginaris per crear aquestes obres digitals. Paral·lelament a la creació de pintures sobre fusta amb els mateixos motius, essent finalment una sèrie tangible i virtual a la vegada.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 1930
+    - 2175
+    - 1802
+    - 2100
+    - 2189
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2083
+      created_at: "2014-07-16T14:11:59Z"
+      updated_at: "2014-07-16T14:11:59Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far3-Lalaia-2014-watermark.jpg"
+      title: "Far 3. Lalaia, 2014"
+      alt: "Far 3. Lalaia, 2014"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far3-Lalaia-2014-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "a2aa82fa4798e2434ac1e663a80bcb29"
+      name: "Far 3. Lalaia, 2014"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/far3-Lalaia-2014.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Far 2. Lalaia, 2014"
+  id: 2078
+  created_at: "2014-07-16T13:29:40Z"
+  updated_at: "2014-08-04T11:21:58Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/far-2-lalaia-2014/"
+  sku: "W067"
+  price: "15.00"
+  regular_price: "15.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">15,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: "<p>Far 2. Lalaia, 2014.</p>\n<p>Sèrie Fars. Aquesta sèrie creada aquest any 2014, és fruit de la passió per aquests elements constructius, els fars, que desprenen una bellesa i un significat més enllà de la llum que guia els vaixells que arriben a port. Amb un visió onírica de la realitat s’uneixen elements reals i imaginaris per crear aquestes obres digitals. Paral·lelament a la creació de pintures sobre fusta amb els mateixos motius, essent finalment una sèrie tangible i virtual a la vegada.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 1924
+    - 2122
+    - 2001
+    - 1304
+    - 1785
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+    - "Digital Art Barcelona"
+  tags: 
+    - "Lalaia"
+  images: 
+    - 
+      id: 2080
+      created_at: "2014-07-16T13:29:27Z"
+      updated_at: "2014-07-16T13:29:27Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far2-Lalaia-2014-watermark.jpg"
+      title: "Far 2. Lalaia, 2014."
+      alt: "Far 2. Lalaia, 2014."
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/far2-Lalaia-2014-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "dac9001b49ea69deeee2a24488311a6d"
+      name: "Far 2. Lalaia, 2014."
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/far2-Lalaia-2014.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []

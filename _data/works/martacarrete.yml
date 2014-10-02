@@ -1,0 +1,915 @@
+- 
+  title: "Spring. Marta Carreté, 2014"
+  id: 1863
+  created_at: "2014-09-11T15:32:46Z"
+  updated_at: "2014-09-12T12:49:21Z"
+  type: "simple"
+  status: "publish"
+  downloadable: true
+  virtual: true
+  permalink: "http://www.artinpocket.cat/product/spring-marta-carrate-2014/"
+  sku: "W018"
+  price: "65.00"
+  regular_price: "65.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">65,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 10
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "catalog"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: ""
+    width: ""
+    height: ""
+    unit: "cm"
+  shipping_required: false
+  shipping_taxable: true
+  shipping_class: ""
+  shipping_class_id: null
+  description: ""
+  short_description: "<p>Spring, Marta Carraté, 2014.</p>\n"
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 1987
+    - 2115
+    - 2109
+    - 2033
+    - 1799
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-DIGITAL"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 1865
+      created_at: "2014-05-21T15:32:22Z"
+      updated_at: "2014-05-21T15:32:22Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/spring-watermark.jpg"
+      title: "Spring, Marta Carraté, 2014"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/spring-watermark.jpg"
+  attributes: []
+  downloads: 
+    - 
+      id: "1f837ddf37011bdc394aaf0db40c5cad"
+      name: "Spring, Marta Carraté, 2014"
+      file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/05/spring.jpg"
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Lost. Marta Carreté, 2013"
+  id: 2784
+  created_at: "2014-09-04T10:42:10Z"
+  updated_at: "2014-09-12T12:38:53Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/lost-marta-carrete-2013-393/"
+  sku: "W493"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "20.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización estados de desconcierto personal</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2847
+    - 2840
+    - 2350
+    - 2316
+    - 2863
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2785
+      created_at: "2014-08-04T10:42:10Z"
+      updated_at: "2014-08-04T10:42:10Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/lost-marta-carrete-2013-393.jpg"
+      title: "Lost. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/lost-marta-carrete-2013-393.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Obstination. Marta Carreté, 2013"
+  id: 2767
+  created_at: "2014-09-04T10:42:00Z"
+  updated_at: "2014-09-12T12:39:16Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/obstination-marta-carrete-2013-385/"
+  sku: "W485"
+  price: "350.00"
+  regular_price: "350.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">350,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "60.00"
+    width: ""
+    height: "80.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Previa ilustración que a posteriori fue convertida en obra de medio formato para una exposicón individual</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2826
+    - 2828
+    - 2608
+    - 2814
+    - 2496
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. OBRA IL.LUSTRADA"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2768
+      created_at: "2014-08-04T10:42:00Z"
+      updated_at: "2014-08-04T10:42:00Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/obstination-marta-carrete-2013-385.jpg"
+      title: "Obstination. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/obstination-marta-carrete-2013-385.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Keith Jarret. Marta Carreté, 2013"
+  id: 2802
+  created_at: "2014-08-04T10:42:20Z"
+  updated_at: "2014-08-04T11:18:35Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/keith-jarret-marta-carrete-2013-404/"
+  sku: "W504"
+  price: "420.00"
+  regular_price: "420.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">420,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "80.00"
+    width: ""
+    height: "60.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Keith Jarret</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2532
+    - 2962
+    - 2767
+    - 2653
+    - 2444
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. ABSTRACT"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2803
+      created_at: "2014-08-04T10:42:20Z"
+      updated_at: "2014-08-04T10:42:20Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/keith-jarret-marta-carrete-2013-404.jpg"
+      title: "Keith Jarret. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/keith-jarret-marta-carrete-2013-404.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Fevreiro. Marta Carreté, 2013"
+  id: 2800
+  created_at: "2014-08-04T10:42:19Z"
+  updated_at: "2014-08-04T11:18:36Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/fevreiro-marta-carrete-2013-403/"
+  sku: "W503"
+  price: "420.00"
+  regular_price: "420.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">420,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "90.00"
+    width: ""
+    height: "50.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Fevreiro</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2851
+    - 2596
+    - 2832
+    - 2478
+    - 2566
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. ABSTRACT"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2801
+      created_at: "2014-08-04T10:42:19Z"
+      updated_at: "2014-08-04T10:42:19Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/fevreiro-marta-carrete-2013-403.jpg"
+      title: "Fevreiro. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/fevreiro-marta-carrete-2013-403.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "End. Marta Carreté, 2013"
+  id: 2798
+  created_at: "2014-08-04T10:42:18Z"
+  updated_at: "2014-08-04T11:18:36Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/end-marta-carrete-2013-402/"
+  sku: "W502"
+  price: "420.00"
+  regular_price: "420.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">420,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "30.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>End</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2436
+    - 2947
+    - 2514
+    - 2506
+    - 3053
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. ABSTRACT"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2799
+      created_at: "2014-08-04T10:42:18Z"
+      updated_at: "2014-08-04T10:42:18Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/end-marta-carrete-2013-402.jpg"
+      title: "End. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/end-marta-carrete-2013-402.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Camins. Marta Carreté, 2013"
+  id: 2795
+  created_at: "2014-08-04T10:42:16Z"
+  updated_at: "2014-08-04T11:18:37Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/camins-marta-carrete-2013-401/"
+  sku: "W501"
+  price: "475.00"
+  regular_price: "475.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">475,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "120.00"
+    width: ""
+    height: "100.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Camins</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2826
+    - 2914
+    - 2368
+    - 2288
+    - 2456
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. ABSTRACT"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2796
+      created_at: "2014-08-04T10:42:16Z"
+      updated_at: "2014-08-04T10:42:16Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/camins-marta-carrete-2013-401.jpg"
+      title: "Camins. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/camins-marta-carrete-2013-401.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "No more pain. Marta Carreté, 2013"
+  id: 2786
+  created_at: "2014-08-04T10:42:11Z"
+  updated_at: "2014-08-04T11:18:38Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/no-more-pain-marta-carrete-2013-394/"
+  sku: "W494"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "20.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización toma de decisiones en positivo</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2456
+    - 2374
+    - 2919
+    - 2600
+    - 3007
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2787
+      created_at: "2014-08-04T10:42:11Z"
+      updated_at: "2014-08-04T10:42:11Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/no-more-pain-marta-carrete-2013-394.jpg"
+      title: "No more pain. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/no-more-pain-marta-carrete-2013-394.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Crisi. Marta Carreté, 2013"
+  id: 2782
+  created_at: "2014-08-04T10:42:09Z"
+  updated_at: "2014-08-04T11:18:40Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/crisi-marta-carrete-2013-392/"
+  sku: "W492"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "20.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización crisis</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2560
+    - 2290
+    - 2868
+    - 3003
+    - 2512
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2783
+      created_at: "2014-08-04T10:42:09Z"
+      updated_at: "2014-08-04T10:42:09Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/crisi-marta-carrete-2013-392.jpg"
+      title: "Crisi. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/crisi-marta-carrete-2013-392.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Let's Cinema. Marta Carreté, 2013"
+  id: 2780
+  created_at: "2014-08-04T10:42:08Z"
+  updated_at: "2014-08-04T11:18:40Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/lets-cinema-marta-carrete-2013-391/"
+  sku: "W491"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "20.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización encarecimiento precio entradas cine</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2496
+    - 2314
+    - 2384
+    - 2280
+    - 2800
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2781
+      created_at: "2014-08-04T10:42:08Z"
+      updated_at: "2014-08-04T10:42:08Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/lets-cinema-marta-carrete-2013-391.jpg"
+      title: "Let&#8217;s Cinema. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/lets-cinema-marta-carrete-2013-391.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Intelligence. Marta Carreté, 2013"
+  id: 2778
+  created_at: "2014-08-04T10:42:07Z"
+  updated_at: "2014-08-04T11:18:40Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/intelligence-marta-carrete-2013-390/"
+  sku: "W490"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "20.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización Inteligencia</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2892
+    - 2870
+    - 2374
+    - 2564
+    - 2701
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2779
+      created_at: "2014-08-04T10:42:07Z"
+      updated_at: "2014-08-04T10:42:07Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/intelligence-marta-carrete-2013-390.jpg"
+      title: "Intelligence. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/intelligence-marta-carrete-2013-390.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Bye!. Marta Carreté, 2013"
+  id: 2776
+  created_at: "2014-08-04T10:42:05Z"
+  updated_at: "2014-08-04T11:18:41Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/bye-marta-carrete-2013-389/"
+  sku: "W489"
+  price: "100.00"
+  regular_price: "100.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">100,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "30.00"
+    width: ""
+    height: "30.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Conceptualización de la vida en los aeropuertos</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2870
+    - 2478
+    - 2726
+    - 2402
+    - 2788
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Marta Carreté. BLACK &amp; WITHE"
+  tags: 
+    - "Marta Carreté"
+  images: 
+    - 
+      id: 2777
+      created_at: "2014-08-04T10:42:05Z"
+      updated_at: "2014-08-04T10:42:05Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/bye-marta-carrete-2013-389.jpg"
+      title: "Bye!. Marta Carreté, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/01/bye-marta-carrete-2013-389.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
