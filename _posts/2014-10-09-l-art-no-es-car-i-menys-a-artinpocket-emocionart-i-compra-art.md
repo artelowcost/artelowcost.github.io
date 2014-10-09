@@ -21,7 +21,7 @@ Edició realitzada per Jordi Mitjà en motiu de la campanya de [crowdfunding](ht
 
 -----------
 
-<p><small>Oferta només d'aquest més d'octubre per la compra del fotogravat t'oferim una làmina amb les lletres de la nova tipografia d'edició limitada (150 exemplars) i la postal amb el logo de la campanya. Valorats en 15€.</small></p>
+<p><small><strong>Oferta només d'aquest més d'octubre</strong> per la compra del fotogravat t'oferim una làmina amb les lletres de la nova tipografia d'edició limitada (150 exemplars) i la postal amb el logo de la campanya. Valorats en 15€.</small></p>
 
 -----------
 
