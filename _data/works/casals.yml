@@ -1,0 +1,78 @@
+---
+  -
+    title: "Salvatges III. Marta Casals Juanola, 2014"
+    id: 3338
+    created_at: "2014-06-14T09:01:43Z"
+    updated_at: "2014-10-14T09:57:06Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/salvatges-iii-marta-casals-juanola-2014/"
+    sku: "W797"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela, tinta china y <em>colage</em>.</p>\n<p>&nbsp;</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2642
+      - 2855
+      - 3332
+      - 2502
+      - 2556
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3339
+        created_at: "2014-10-14T09:03:39Z"
+        updated_at: "2014-10-14T09:03:52Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges2.jpg"
+        title: "Marta-Casals Juanola-SalavtagesIII-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
