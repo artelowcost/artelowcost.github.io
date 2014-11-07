@@ -11,7 +11,7 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}Artinpocket_Icon_Pocket.png
 {{ site.url }}{{ site.bower_compoonents.baseurl }}platform/platform.js
 
-{% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ site.url }}{{ page.url }}{% endif %}
+{% for page in site.pages %}{% if page.url != '/manifest.appcache' and page.url != '/404.html' %}{{ site.url }}{{ page.url }}{% endif %}
 {% endfor %}
 
 NETWORK:
