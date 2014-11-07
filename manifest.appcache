@@ -9,6 +9,8 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
 {{ site.url }}{{ site.assets.baseurl }}Artinpocket_Icon_Pocket.png
+{{ site.url }}{{ site.bower_components.baseurl }}bower_components/core-image/core-image.min.html
+{{ site.url }}{{ site.assets.baseurl }}public/import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}platform/platform.js
 
 {% for page in site.pages %}{% if page.url != '/manifest.appcache' and page.url != '/404.html' %}{{ site.url }}{{ page.url }}{% endif %}
