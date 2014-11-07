@@ -8,6 +8,8 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/lanyon.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
+{{ site.url }}{{ site.assets.baseurl }}Artinpocket_Icon_Pocket.png
+{{ site.url }}{{ site.bower_compoonents.baseurl }}platform/platform.js
 
 {% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ site.url }}{{ page.url }}{% endif %}
 {% endfor %}
