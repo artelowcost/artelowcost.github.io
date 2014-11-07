@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: "Vols regalar emocions, sentiments o pensaments? Doncs regala art!" 
 share: true
 work: 2458

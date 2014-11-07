@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: ¿Comprar arte? si no te gusta no lo compres  
 share: true
 work: 1863

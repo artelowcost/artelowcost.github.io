@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: "Asombra y Sorprende, regala arte" 
 share: true
 work: 3338

@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: L'art no és car i menys a Artinpocket, "#Emocionart" i compra art 
 share: true
 work: 3310

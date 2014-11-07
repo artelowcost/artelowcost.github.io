@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: "Llena tu casa de talento y emoción" 
 share: true
 work: 2084

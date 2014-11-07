@@ -1,5 +1,7 @@
 ---
 layout: post
+og: true
+og-type: article
 title: ¡El mundo del arte será digital!  
 share: true
 work: 2087
