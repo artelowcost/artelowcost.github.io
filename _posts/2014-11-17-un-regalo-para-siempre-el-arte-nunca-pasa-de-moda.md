@@ -21,7 +21,7 @@ work: 3352
 	</figcaption>
 </figure>
 
-¿Por qué caer en el eterno consumismo de cada año? ¿Por qué regalar siempre las mismas cosas que no aportan nada y que al poco tiempo se consumen o se quedan obsoletas? **El Arte nunca pasa de moda y la belleza de un lienzo, una escultura o una fotografía podría deteriorarse pero nunca desaparecer**. 
+¿Porque caer en el eterno consumismo de cada año? ¿Por qué regalar siempre las mismas cosas que no aportan nada y que al poco tiempo se consumen o se quedan obsoletas? **El Arte nunca pasa de moda y la belleza de un lienzo, una escultura o una fotografía podría deteriorarse pero nunca desaparecer**. 
 
 Sea cual sea la obra de arte por la que decidas será el fruto de la creatividad de un artista que ha invertido muchas horas en concebirla y realizarla. Cuando te la lleves a casa y se la ofrezcas a esa persona tan especial piensa que también le estás regalando un poco de su tiempo y un trocito de tu alma. 
 
