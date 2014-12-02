@@ -23,9 +23,10 @@ work: 3594
 
 Esta Navidad [Down Catalunya](http://sindromedown.cat/es/) y **[Artinpocket](http://www.artinpocket.cat/)** proponen hacer **un regalo con doble sensibilidad**. [#DoblementeSensible](https://twitter.com/hashtag/doblementesensible) es una propuesta que tiene como objetivo financiar las actividades que lleva a cabo la Coordinadora Síndrome de Down de Cataluña y fomentar la compra de arte como regalo alternativo y sensible con la creación artística.
 
-- ¿Quieres saber cómo ser #DoblementSensible? Esta Navidad lo tienes muy fácil, con una propuesta exclusiva que te permite
-- Fomentar la compra de arte como regalo alternativo y sensible con la creación artística.
-- Ayudar a financiar las acciones de la Coordinadora Síndrome de Down de Cataluña
+¿Quieres saber cómo ser #DoblementSensible? Esta Navidad lo tienes muy fácil, con una propuesta exclusiva que te permite
+
+1. Fomentar la compra de arte como regalo alternativo y sensible con la creación artística.
+2. Ayudar a financiar las acciones de la Coordinadora Síndrome de Down de Cataluña
 
 El 10% del importe de todas las ventas que se hagan durante toda la campaña de Navidad y Reyes a través de Artinpocket se destinarán a Down Cataluña.
 
