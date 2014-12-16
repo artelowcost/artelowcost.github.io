@@ -34,6 +34,13 @@
   {% assign work_data = site.data.works.artworks | where:"id", page.work %}
   {% assign work = work_data | first %}
   <meta property="og:image" content="{{ work.featured_src }}" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ site.twitter }}">
+  <meta name="twitter:creator" content="@{{ site.author.username }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ work.description }}">
+  <meta name="twitter:image:src" content="{{ work.featured_src }}">
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
