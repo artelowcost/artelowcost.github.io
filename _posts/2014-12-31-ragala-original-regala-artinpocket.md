@@ -2,7 +2,7 @@
 layout: post
 og: true
 og-type: article
-title: "Regala oroginal, regala Artinpocket" 
+title: "Regala original, regala Artinpocket" 
 share: true
 work: 2280
 ---
